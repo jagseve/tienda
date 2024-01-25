@@ -1,0 +1,6 @@
+.product-detail {
+    width: 230PX;
+    height: calc(100vh - 69px);
+    top : 68px
+
+}
